@@ -1,0 +1,12 @@
+
+html, body {
+     height: 100%; 
+     margin: 0;   
+}
+.p2  {
+     font-size: 12px;
+}
+.p2 :hover  {
+     font-size: 18px;
+     color: red;
+}
